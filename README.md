@@ -1,4 +1,7 @@
-# storytelling.prem
+# Prem Gohel — Personal Story
+
+[Read my story](https://prmeium.github.io/storytelling.prem/) · [See my growth and go-to-market portfolio](https://prmeium.github.io/Prem-Gohel/)
+
 
 Prem Gohel’s personal storytelling page. A simple, responsive, text-first site with updated November 2026 copy.
 
